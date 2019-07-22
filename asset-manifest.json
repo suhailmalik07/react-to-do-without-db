@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-to-do-without-db/static/css/main.818da3f5.chunk.css",
+    "main.js": "/react-to-do-without-db/static/js/main.1257fa5c.chunk.js",
+    "main.js.map": "/react-to-do-without-db/static/js/main.1257fa5c.chunk.js.map",
+    "runtime~main.js": "/react-to-do-without-db/static/js/runtime~main.4b5c9a0a.js",
+    "runtime~main.js.map": "/react-to-do-without-db/static/js/runtime~main.4b5c9a0a.js.map",
+    "static/js/2.0478774c.chunk.js": "/react-to-do-without-db/static/js/2.0478774c.chunk.js",
+    "static/js/2.0478774c.chunk.js.map": "/react-to-do-without-db/static/js/2.0478774c.chunk.js.map",
+    "index.html": "/react-to-do-without-db/index.html",
+    "precache-manifest.fa7c74230b6ad6be59ba2c5b1773acc0.js": "/react-to-do-without-db/precache-manifest.fa7c74230b6ad6be59ba2c5b1773acc0.js",
+    "service-worker.js": "/react-to-do-without-db/service-worker.js",
+    "static/css/main.818da3f5.chunk.css.map": "/react-to-do-without-db/static/css/main.818da3f5.chunk.css.map"
+  }
+}
